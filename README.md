@@ -57,7 +57,6 @@ Building in public at <a href="https://github.com/Adil-Ahmed-1?tab=repositories"
 
 <div align="center">
 
-
 <img width="420" src="./assets/octocat.svg" alt="Animated Octocat coding on a laptop" />
 
 <br><br>
@@ -65,8 +64,6 @@ Building in public at <a href="https://github.com/Adil-Ahmed-1?tab=repositories"
 <a href="https://www.linkedin.com/in/adil-khoso/"><img src="https://img.shields.io/badge/LinkedIn-Adil%20Khoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <br>
 <a href="https://github.com/Adil-Ahmed-1"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Adil-Ahmed-1.Adil-Ahmed-1&left_color=gray&right_color=0e75b6" alt="Profile views" />
 
 </div>
 
@@ -148,8 +145,8 @@ Building in public at <a href="https://github.com/Adil-Ahmed-1?tab=repositories"
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adil-Ahmed-1&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ahmed-1&layout=compact&hide_border=true&bg_color=0b0f18&title_color=F7941D&text_color=e6e9f0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adil-Ahmed-1&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adil-Ahmed-1&layout=compact&hide_border=true&bg_color=0b0f18&title_color=F7941D&text_color=e6e9f0" alt="Top languages" />
 </p>
 
 <p align="center">
